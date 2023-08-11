@@ -45,15 +45,15 @@ button.remove-cart {
   margin-top: -10px;;
 }
 .cart-wrapper{
-  height: 100px;
-    width: 500px;
+  height: 150px;
+    width: 600px;
     border: 1px solid #ccc;
     margin-left: 10%;
 }
 .item {
   float: left;
   display: inline-block;
-  width: 120px;
+  width: 150px;
   padding: 20px;
   height: 70px;
 }
